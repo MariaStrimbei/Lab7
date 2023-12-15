@@ -1,7 +1,7 @@
 ﻿using Android.App;
 using Android.Runtime;
 
-namespace Strimbei_Maria_Lab7
+namespace Strimbei_Maria_Alexandra_Lab7
 {
     [Application]
     public class MainApplication : MauiApplication

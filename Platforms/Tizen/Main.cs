@@ -2,7 +2,7 @@ using Microsoft.Maui;
 using Microsoft.Maui.Hosting;
 using System;
 
-namespace Strimbei_Maria_Lab7
+namespace Strimbei_Maria_Alexandra_Lab7
 {
     internal class Program : MauiApplication
     {

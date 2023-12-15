@@ -3,7 +3,7 @@
 // To learn more about WinUI, the WinUI project structure,
 // and more about our project templates, see: http://aka.ms/winui-project-info.
 
-namespace Strimbei_Maria_Lab7.WinUI
+namespace Strimbei_Maria_Alexandra_Lab7.WinUI
 {
     /// <summary>
     /// Provides application-specific behavior to supplement the default Application class.

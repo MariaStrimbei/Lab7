@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2f1PbxRMBBH0w2qA2tauROBiMP5c4vliYSA7VQ+VuBhva2JT4un+jmANJr5PbLUd1s9NaHKtJL+2lhKXwIGd4w==",
+  "dgSpecHash": "qHRf2n3NgZEsWW8oGsEilXuVFgMeAPqRC8+CIY7MC4HG2l0OGEmVBQlX5y+sybykIB+QJJUlWXaBs/T99pVOcQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Maria\\Desktop\\fsega3\\Medii de programare\\Strimbei_Maria_Lab7\\Strimbei_Maria_Lab7.csproj",
+  "projectFilePath": "C:\\Users\\Maria\\Desktop\\fsega3\\Medii de programare\\Strimbei_Maria_Alexandra_Lab7\\Strimbei_Maria_Alexandra_Lab7.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Maria\\.nuget\\packages\\googlegson\\2.9.1.1\\googlegson.2.9.1.1.nupkg.sha512",
     "C:\\Users\\Maria\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
